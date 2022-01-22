@@ -1,28 +1,14 @@
-# Projeto XXXX
-## FPRO/MIEIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
-## 1MIEICXX
+# Projeto Ladybug
+## LEIC, 2021/22
+## Eduardo Sousa (up202103342)
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
-
-2. Em alternativa... do clássico x em Pygame.
+Criar um jogo muito semelhante/igual à versão Atari 2600 do jogo Ladybug
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/@author/xxx
-
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
-
-- https://github.com/AfonsoSalgadoSousa
-- https://github.com/jlopes60
-- https://github.com/nmacedo
-- https://github.com/rpmcruz
-- https://github.com/eSoares
-- https://github.com/pbv
-- https://github.com/imdcode
-- https://github.com/acoelho-fe-up-pt
+1) Link para o repositório do GitHub: https://github.com/up202103342/projeto
 
 ### Descrição
 
@@ -37,12 +23,15 @@ Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Est
 ### Pacotes
 
 - Pygame
+- random
 
 ### Tarefas
 
-1. carregar os níveis
-1. desenhar a matriz do nível
-1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
+1. Carregar todas as imagens e sons necessários
+2. Mostrar o menu, e a informação dos controlos se requisitado pelo jogador
+3. Correr os níveis
+4. Mexer a Ladybug em função das acções do jogador, e realizar as acções necessárias relativamente à posição da mesma (recolha de objectos, procura pelos outros insectos, etc)
+5. Verificar se o nível foi terminado, se sim, passar ao próximo nível
+6. Se o jogador perder a última vida, apresentar o ecrã de 'Game Over', com informação do nível e pontuação do jogador no momento em que perdeu
 
-- Atualizado a última vez em 07/12/2021
+- Atualizado a última vez em 22/01/2021
