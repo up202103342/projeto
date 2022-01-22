@@ -12,9 +12,8 @@ Criar um jogo muito semelhante/igual à versão Atari 2600 do jogo Ladybug
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+O jogador tem de controlar a Ladybug de forma a apanhar todas as flores e letras em cada nível para passar ao nível seguinte, sem ser apanhado por outros insectos.
+No caso de apanhar letras no momento certo em que estão da cor de cada palavra indicada em cima do labirinto ('Special' e 'Extra'), essas letras serão gradualmente completadas e, se uma palavra for completa, o jogador recebe um bónus e passa automaticamente ao nível seguinte.
 
 ### UI
 
