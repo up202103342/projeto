@@ -18,6 +18,7 @@ No caso de apanhar letras no momento certo em que estão da cor de cada palavra 
 ### UI
 
 ![image](https://user-images.githubusercontent.com/96120122/150702067-0730f58e-9277-4d9e-9489-2991accabc56.png)
+![image](https://user-images.githubusercontent.com/96120122/150777931-2217cd14-da4b-4535-bb88-b4e9bbfaee24.png)
 
 ### Pacotes
 
